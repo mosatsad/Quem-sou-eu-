@@ -4,9 +4,9 @@
 
 ## 🚀 Começando
 
-Contadora de formação, pós-graduada em Pericia contábil e financeira. 
+Sou uma analista de dados com mais de dois anos de experiência em diferentes setores, como fintech, e-commerce, tributos e construção civil. Tenho formação em contabilidade e pós-graduação em perícia financeira e contábil, o que me permite ter uma visão ampla e crítica dos processos e resultados dos negócios.
 
-Fiz migração de carreira em 2021, trabalhando como Analista de Dados desde então. Uma mulher de 35 anos, morei 16 meses em Medellín/Colômbia, sou uma mulher corajosa e adaptável a novas tarefas.
+Atualmente, estou cursando ciência de dados e banco de dados. Utilizo ferramentas e linguagens como SQL, Pyspark, Excel, Python e Mixpanel para realizar análises descritivas e diagnósticas, criar dashboards para acompanhamento de indicadores, validar dados e otimizar rotinas de big data, no geral encontrar oportunidades de melhoria por meio dos dados. 
 
 * Estou aprendendo sobre **Analise Bidimensional e Power BI**
 *  Procuro colaborar em projetos de **Analise de dados**
